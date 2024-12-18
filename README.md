@@ -53,7 +53,7 @@ Follow these steps to run the application:
 3. Upon a valid selection, the price of the selected fruit is displayed.
 4. If the input is invalid, the user is notified and prompted to enter a valid option.
 
-## Fruit Prices
+### Fruit Prices
 
 | Fruit    | Price (TL) |
 |----------|------------|
@@ -63,10 +63,16 @@ Follow these steps to run the application:
 | Banana   | 3          |
 | Other    | 4          |
 
-## Highlights in the Code
+### Highlights in the Code
 
 - User inputs are converted to lowercase using the `ToLower()` method to eliminate case sensitivity.
 - The `switch-case` structure is used to make the code more readable and maintainable.
+
+---
+
+## Example Usage
+
+![image](https://github.com/user-attachments/assets/4f3a8d67-0965-427f-af39-f5c0082d2e50)
 
 ---
 
@@ -74,6 +80,8 @@ Follow these steps to run the application:
 
 - Instead of **if-else**, the **switch-case** structure was used to make the code cleaner and more understandable.
 - In the future, a feature to dynamically set fruit prices can be added.
+
+---
 
 ## Contributing
 To contribute to this project, please submit a **Pull Request** or create an **Issue**.
